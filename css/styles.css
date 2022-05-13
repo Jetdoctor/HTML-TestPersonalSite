@@ -19,3 +19,23 @@ hr {
     border-top-style: dotted;
     width: 10%;
 }
+
+img:hover {
+    background-color: gold;
+}
+
+/* Class Selectors Exist Can Be Used Multiple Times And One Element Can Have Multiple Classes*/
+
+.ersel {
+    background-color: #CEE5D0;
+}
+
+.gamer {
+    background-image: none;
+}
+
+/* Id Selectors Exist Only Used Once Per Page */
+
+#CHAD {
+    color: red;
+}
